@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nWMTRELTWSr836VCXo8gRjrfsFYpe9Bdn2UV8rQqzncJIYH0scYQOEG0LRB1Aa6XdntNkq7eBSI23lEKp/w7+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\Curso ASP\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.dotnet.watcher.tools\\2.0.2\\microsoft.dotnet.watcher.tools.2.0.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app\\2.0.7\\microsoft.netcore.app.2.0.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.7\\microsoft.netcore.dotnetapphost.2.0.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.7\\microsoft.netcore.dotnethostpolicy.2.0.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.7\\microsoft.netcore.dotnethostresolver.2.0.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.2\\microsoft.netcore.platforms.2.0.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.1\\netstandard.library.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
